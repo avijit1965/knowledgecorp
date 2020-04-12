@@ -1632,6 +1632,32 @@ section.lazy-placeholder:after {
   text-align: left;
   color: #ffffff;
 }
+.cid-rVV9JkzU9g {
+  background: #ffffff;
+}
+.cid-rVV9JkzU9g .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rVV9JkzU9g .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rVV9JkzU9g figcaption {
+  position: relative;
+}
+.cid-rVV9JkzU9g figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rVV9JkzU9g .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rVV9JkzU9g .mbr-figure-caption div {
+  color: #31ad0f;
+}
 .cid-rVAUuda66O {
   padding-top: 90px;
   padding-bottom: 90px;
